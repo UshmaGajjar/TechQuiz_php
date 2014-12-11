@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script src="js/jquery.min.js"></script>
+<script type="text/javascript">
+var timerID;
+function window_onload()
+{
+    m=0;
+	s=59;
+	setTimeout("hello()",1000);
+}
+function hello()
+{
+	
+	$('#timer').html(m + ' : '+ s);
+	if(s>0){
+		s=s-1;
+		setTimeout("hello()",1000);
+	}
+	else if(s==0)
+	{
+		if(s==0 && m==0)
+		{		
+			setTimeout("alert('your times up')",1000);
+		}
+		else
+		{
+			s=59;m=m-1;
+			setTimeout("hello()",1000);
+		}
+	}
+}
+</script>
+</head>
+<body>
+<input type="button" value="START TIMER" onclick="window_onload()" />
+<h3> TIMER  : </h3>
+<span id="timer">  2 : 00 </span>
+
+
+</body>
+</html>

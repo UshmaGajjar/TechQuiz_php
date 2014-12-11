@@ -1,0 +1,92 @@
+      QUIZ RESULT 
+ 
+Q 1 :  Data transformation includes which of the following?
+ A. A process to change data from a detailed level to a summary level
+ B. A process to change data from a summary level to a detailed level
+ C. Joining data from one source into various sources of data
+ D. Separating data from one source into various sources of data
+  Your answer :  
+ Correct answer : A
+ 
+
+Q 2 :  Fact tables are which of the following?
+ A. Completely denormalized
+ B. Partially denormalized
+ C. Completely normalized
+ D. Partially normalized
+  Your answer :  
+ Correct answer : C
+ 
+
+Q 3 :  Data scrubbing is which of the following?
+ A. A process to reject data from the data warehouse and to create the necessary indexes
+ B. A process to load the data in the data warehouse and to create the necessary indexes
+ C. A process to upgrade the quality of data after it is moved into a data warehouse
+ D. A process to upgrade the quality of data before it is moved into a data warehouse
+  Your answer :  
+ Correct answer : D
+ 
+
+Q 4 :  A multifield transformation does which of the following?
+ A. Converts data from one field into multiple fields
+ B. Converts data from multiple fields into one field
+ C. Converts data from multiple fields into multiple fields
+ D. All of the above
+  Your answer :  
+ Correct answer : D
+ 
+
+Q 5 :  Reconciled data is which of the following?
+ A. Data stored in the various operational systems throughout the organization.
+ B. Current data intended to be the single source for all decision support systems.
+ C. Data stored in one operational system in the organization.
+ D. Data that has been selected and formatted for end-user support applications
+  Your answer :  
+ Correct answer : B
+ 
+
+Q 6 :  The load and index is which of the following?
+ A. A process to reject data from the data warehouse and to create the necessary indexes
+ B. A process to load the data in the data warehouse and to create the necessary indexes
+ C. A process to upgrade the quality of data after it is moved into a data warehouse
+ D. A process to upgrade the quality of data before it is moved into a data warehouse
+  Your answer :  
+ Correct answer : B
+ 
+
+Q 7 :  A goal of data mining includes which of the following?
+ A. To explain some observed event or condition
+ B. To confirm that data exists
+ C. To analyze data for expected relationships
+ D. To create a new data warehouse
+  Your answer :  
+ Correct answer : A
+ 
+
+Q 8 :  A star schema has what type of relationship between a dimension and fact table?
+ A. Many-to-many
+ B. One-to-one
+ C. One-to-many
+ D. All of the above.
+  Your answer :  
+ Correct answer : C
+ 
+
+Q 9 :  Data warehousing uses data from:
+ A. daily reports only.
+ B. diverse applications and locations
+ C. diverse applications, but one location.
+ D. many locations, but one application
+  Your answer :  
+ Correct answer : B
+ 
+
+Q 10 :  An operational system is which of the following?
+ A. A system that is used to run the business in real time and is based on historical data.
+ B. A system that is used to run the business in real time and is based on current data.
+ C. A system that is used to support decision making and is based on current data.
+ D. A system that is used to support decision making and is based on historical data.
+  Your answer :  
+ Correct answer : B
+ 
+
